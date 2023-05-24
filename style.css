@@ -1,0 +1,46 @@
+body{
+background-color: white;
+}
+h1{
+    color: gray;
+}
+
+
+#g1{
+ 
+position: absolute;
+top: 20;
+
+
+}
+
+
+
+
+body{
+background-image: url(images.jpg);
+color: black;
+}
+
+
+
+img{
+    width: 20%;
+margin-top: 200px;
+}
+img{
+
+}
+
+h3{
+    color: red;
+}
+#g3{
+    width: 200px;
+}
+#g6{
+    color: skyblue;
+}
+#j5{
+    width: 200px;
+}
